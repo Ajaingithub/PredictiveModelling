@@ -1,4 +1,11 @@
-# Byte-compiled / optimized / DLL files
+# Large files
+rawdata
+data
+result
+results
+available_code
+
+#Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
